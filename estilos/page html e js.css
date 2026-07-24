@@ -4,11 +4,11 @@
 }
 
 body {
-    background-color: rgb(208, 67, 67);
+    background-color: rgb(130, 67, 208);
 }
 
 main {
-    background-color: white;
+    background-color: rgb(57, 188, 183);
     width: 500px;
     margin: auto;
     padding: 10px;
@@ -17,4 +17,11 @@ main {
 
 img.lado {
     float: right;
+}
+
+iframe {
+    width: 500px;
+    margin: auto;
+    padding: auto;
+    box-shadow: 2px 2px 4px rgb(147, 100, 23);
 }
