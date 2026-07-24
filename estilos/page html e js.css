@@ -18,3 +18,10 @@ main {
 img.lado {
     float: right;
 }
+
+iframe {
+    width: 500px;
+    margin: auto;
+    padding: auto;
+    box-shadow: 2px 2px 4px rgb(147, 100, 23);
+}
